@@ -1,4 +1,4 @@
-Computer Science: Programming with a Purpose - Princeton University
+Computer Science: Programming with a Purpose (Princeton University course)
 by Prof. Robert Sedgewick, Princeton University, Dr. Kevin Wayne, Princeton University
 
 An excellent free course offered on Coursera by Princeton University for learning JAVA programming with practical applications.
